@@ -1,0 +1,16 @@
+{
+  "name": "erikringsmuth.github.io",
+  "private": true,
+  "version": "0.0.0",
+  "homepage": "http://erikringsmuth.github.io",
+  "authors": [
+    "Erik Ringsmuth <erik.ringsmuth@gmail.com>"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "google-code-prettify": "~1.0.1",
+    "bootstrap": "~3.1.1",
+    "bootswatch": "~3.1.1",
+    "font-awesome": "~4.0.3"
+  }
+}
