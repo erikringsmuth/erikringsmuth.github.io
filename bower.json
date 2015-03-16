@@ -7,10 +7,10 @@
     "Erik Ringsmuth <erik.ringsmuth@gmail.com>"
   ],
   "dependencies": {
-    "jquery": "~2.1.0",
-    "google-code-prettify": "~1.0.1",
-    "bootstrap": "~3.1.1",
-    "bootswatch": "~3.1.1",
-    "font-awesome": "~4.1.0"
+    "jquery": "~2.1.3",
+    "google-code-prettify": "~1.0.4",
+    "bootstrap": "~3.3.2",
+    "bootswatch": "~3.3.2",
+    "font-awesome": "~4.3.0"
   }
 }
